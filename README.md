@@ -1,6 +1,14 @@
 # cryptocurrency_price_data
 
-A repo containing daily crytpocurrency price data.
+A repo containing daily cryptocurrency price data from the following exchanges:
+
+- binance
+- bitfinex
+- bitstamp
+- exmo
+- gemini
+- kucoin
+- poloniex
 
 
 # Daily Data Sources (see excel file)
