@@ -1,5 +1,8 @@
 # cryptocurrency_price_data
 
+A repo containing daily crytpocurrency price data.
+
+
 # Daily Data Sources (see excel file)
 
 # Minutely Data Sources (too large for github)
